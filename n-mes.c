@@ -1,4 +1,4 @@
-//Escrever um programa em C para ler umnúmero inteiro qualquer e retornar a quemês do ano corresponde. Caso não hajacorrespondência, exibir mensagem de erro.
+//Escrever um programa em C para ler umnúmero inteiro qualquer e retornar a que mês do ano corresponde. Caso não haja correspondência, exibir mensagem de erro.
 
 #include <stdio.h>
 

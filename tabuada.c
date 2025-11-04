@@ -1,3 +1,6 @@
+//Escrever um programa em C para ler um número n e exibir a tabuada de multiplicar de n (em forma tabular) de 0 a 10. Ao final da exibição, perguntar ao usuário se ele deseja obter a tabuada de outro número. deve ser exibida a tabuada de tantos números quantos o usuário desejar (uma por vez).
+
+
 #include <stdio.h>
 
 int main() {
