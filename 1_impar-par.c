@@ -6,8 +6,8 @@ int main(){
     int numero;
     printf("Insira seu numero: \n");
     scanf("%d", &numero);
-    if(numero%2 != 0) printf("O numero é impar\n");
-    else return printf("O numero é par\n");
+    if(numero%2 != 0) printf("O numero e impar\n");
+    else return printf("O numero e par\n");
 
     return 0;
 
